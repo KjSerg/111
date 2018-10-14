@@ -1,0 +1,21 @@
+.box {
+	width: 19rem;
+	height: 38rem;
+	padding: 4px;
+	margin: 0 auto; 
+	border: 1px solid #cecece;
+	position: relative;
+}
+
+.square {
+	width: 1.5rem;
+	height: 1.5rem;
+	margin: 2px;
+	float: left;
+	border: 1px solid #000;
+	-webkit-border-radius: 2px;
+	        border-radius: 2px;
+}
+.square.full {
+	background: #cecece;
+}

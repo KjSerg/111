@@ -1,0 +1,11 @@
+.header {
+	width: 250px;
+	margin: 0 auto;
+	text-transform: uppercase;
+}
+.header table {
+	width: 100%;
+}
+.header td {
+	width: 50%;
+}
